@@ -56,7 +56,7 @@ To start tracking, press the Track button. To stop tracking, press the Track but
 [<img src="screenshots/android/tracking.webp"
      alt="Custom">](screenshots/android/tracking.webp)
 
-*When adding a placemark or tracking, you must have the [Mappoff](https://play.google.com/store/apps/details?id=com.jithware.mappoff) phone app installed and your watch setup with the [Wear OS App](https://support.google.com/wearos/answer/6056630). [Placemark](https://github.com/jithware/mappoff#placemark) or [tracking](https://github.com/jithware/mappoff#tracking) settings can be adusted in the phone app*
+*When adding a placemark or tracking, you must have the [Mappoff](https://play.google.com/store/apps/details?id=com.jithware.mappoff) phone app installed, configured and running. Additionally, your watch must be setup with the [Wear OS App](https://support.google.com/wearos/answer/6056630). You can adjust [placemark](https://github.com/jithware/mappoff#placemark) or [tracking](https://github.com/jithware/mappoff#tracking) settings in the phone app*
 
 ## Donate
 
