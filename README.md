@@ -24,39 +24,45 @@ Slimmed down version of [Mappoff](https://github.com/jithware/mappoff) for Wear 
 To hide the buttons, tap the screen. To show the buttons, tap the screen again 
 
 [<img src="screenshots/android/hide.webp"
-     alt="Running">](screenshots/android/hide.webp)
+     alt="Hide">](screenshots/android/hide.webp)
 
 ### Location
 To move the map to your current location, press the Location button. 
 
 [<img src="screenshots/android/location.webp"
-     alt="Running">](screenshots/android/location.webp)
+     alt="Location">](screenshots/android/location.webp)
 
 ### Zoom
 To zoom in or out, pinch the screen in or out or press the Zoom In or Zoom Out buttons. 
 
 [<img src="screenshots/android/zoom.webp"
-     alt="Presets">](screenshots/android/zoom.webp)
+     alt="Zoom">](screenshots/android/zoom.webp)
 
 ### Move
 To move the map, touch anywhere on the map and drag to the location to move to. 
 
 [<img src="screenshots/android/move.webp"
-     alt="Presets">](screenshots/android/move.webp)
+     alt="Move">](screenshots/android/move.webp)
 
 ### Placemark
 To add a new placemark, long press a location on the screen. To view the placemark information, tap the placemark. To dismiss the information, tap it again.
 
 [<img src="screenshots/android/placemark.webp"
-     alt="Custom">](screenshots/android/placemark.webp)
+     alt="Placemark">](screenshots/android/placemark.webp)
 
 ### Tracking
 To start tracking, press the Track button. To stop tracking, press the Track button again.
 
 [<img src="screenshots/android/tracking.webp"
-     alt="Custom">](screenshots/android/tracking.webp)
+     alt="Tracking">](screenshots/android/tracking.webp)
 
-*When adding a placemark or tracking, you must have the [Mappoff](https://play.google.com/store/apps/details?id=com.jithware.mappoff) phone app installed, configured and running. Additionally, your watch must be setup with the [Wear OS App](https://support.google.com/wearos/answer/6056630). You can adjust [placemark](https://github.com/jithware/mappoff#placemark) or [tracking](https://github.com/jithware/mappoff#tracking) settings in the phone app*
+*When adding a placemark or tracking, you must have the [Mappoff](https://play.google.com/store/apps/details?id=com.jithware.mappoff) phone app installed, configured and running. Additionally, your watch must be setup with the [Wear OS App](https://support.google.com/wearos/answer/6056630). You can adjust [placemark](https://github.com/jithware/mappoff#placemark) or [tracking](https://github.com/jithware/mappoff#tracking) settings in the phone app.*
+
+### Preset
+To view a preset, connect your watch to your phone and load a [preset](https://github.com/jithware/mappoff#presets) in the phone app. Move or zoom to your preset.
+
+[<img src="screenshots/android/preset.webp"
+     alt="Preset">](screenshots/android/preset.webp)
 
 ## Donate
 
