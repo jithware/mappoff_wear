@@ -21,7 +21,7 @@ Slimmed down version of [Mappoff](https://github.com/jithware/mappoff) for Wear 
 ## Usage
 
 ### Hide
-To hide the buttons, tap the screen. To show the buttons, tap the screen again 
+To hide the buttons, tap the clock. To show the buttons, tap the clock again 
 
 [<img src="screenshots/android/hide.webp"
      alt="Hide">](screenshots/android/hide.webp)
