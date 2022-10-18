@@ -21,7 +21,7 @@ Slimmed down version of [Mappoff](https://github.com/jithware/mappoff) for Wear 
 ## Usage
 
 ### Hide
-To hide the buttons, tap the clock. To show the buttons, tap the clock again 
+To hide the buttons, tap the clock. To show the buttons, tap the clock again. 
 
 [<img src="screenshots/android/hide.webp"
      alt="Hide">](screenshots/android/hide.webp)
@@ -59,7 +59,7 @@ To start tracking, press the Track button. To stop tracking, press the Track but
 *When adding a placemark or tracking, you must have the [Mappoff](https://play.google.com/store/apps/details?id=com.jithware.mappoff) phone app installed, configured and running. Additionally, your watch must be setup with the [Wear OS App](https://support.google.com/wearos/answer/6056630) or other similar [watch app](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion). You can adjust [placemark](https://github.com/jithware/mappoff#placemark) or [tracking](https://github.com/jithware/mappoff#tracking) settings in the phone app.*
 
 ### Preset
-To view a preset, connect your watch to your phone and load a [preset](https://github.com/jithware/mappoff#presets) in the phone app. Move or zoom to your preset.
+To view a preset, connect your watch to your phone and load a [preset](https://github.com/jithware/mappoff#presets) in the phone app. Move or zoom to your preset. Tap a location on the map to load the preset in that location.
 
 [<img src="screenshots/android/preset.webp"
      alt="Preset">](screenshots/android/preset.webp)
