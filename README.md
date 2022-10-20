@@ -11,9 +11,9 @@ Slimmed down version of [Mappoff](https://github.com/jithware/mappoff) for Wear 
 
 ![home](screenshots/android/1_home.png)
 ![hide](screenshots/android/2_hide.png)
-![location](screenshots/android/3_location.png)
-![zoom](screenshots/android/4_zoom.png)
-![move](screenshots/android/5_move.png)
+![zoom](screenshots/android/3_zoom.png)
+![move](screenshots/android/4_move.png)
+![location](screenshots/android/5_location.png)
 ![placemark](screenshots/android/6_placemark.png)
 ![popup](screenshots/android/7_popup.png)
 ![tracking](screenshots/android/8_tracking.png)
@@ -26,12 +26,6 @@ To hide the buttons, tap the clock. To show the buttons, tap the clock again.
 [<img src="screenshots/android/hide.webp"
      alt="Hide">](screenshots/android/hide.webp)
 
-### Location
-To move the map to your current location, press the Location button. 
-
-[<img src="screenshots/android/location.webp"
-     alt="Location">](screenshots/android/location.webp)
-
 ### Zoom
 To zoom in or out, pinch the screen in or out or press the Zoom In or Zoom Out buttons. 
 
@@ -43,6 +37,12 @@ To move the map, touch anywhere on the map and drag to the location to move to.
 
 [<img src="screenshots/android/move.webp"
      alt="Move">](screenshots/android/move.webp)
+
+### Location
+To move the map to your current location, press the Location button. 
+
+[<img src="screenshots/android/location.webp"
+     alt="Location">](screenshots/android/location.webp)
 
 ### Placemark
 To add a new placemark, long press a location on the screen. To view the placemark information, tap the placemark. To dismiss the information, tap it again.
