@@ -64,6 +64,13 @@ To view a preset, connect your watch to your phone and load a [preset](https://g
 [<img src="screenshots/android/preset.webp"
      alt="Preset">](screenshots/android/preset.webp)
 
+### Cache
+
+To cache map tiles for offline use, connect your watch to your phone and [cache](https://github.com/jithware/mappoff#cache) tiles on your phone.
+
+[<img src="screenshots/android/cache.webp"
+     alt="Cache">](screenshots/android/cache.webp)
+
 ## Donate
 
 Donate to the project's maintainer [@jithware](https://github.com/jithware)
