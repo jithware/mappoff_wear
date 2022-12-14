@@ -45,7 +45,7 @@ To move the map to your current location, press the Location button.
      alt="Location">](screenshots/android/location.webp)
 
 ### Placemark
-To add a new placemark, long press a location on the screen. To view the placemark information, tap the placemark. To dismiss the information, tap it again.
+To add a new placemark, press the Add Location button or long press a location on the screen. To view the placemark information, tap the placemark. To dismiss the information, tap it again.
 
 [<img src="screenshots/android/placemark.webp"
      alt="Placemark">](screenshots/android/placemark.webp)
