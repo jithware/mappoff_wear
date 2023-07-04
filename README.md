@@ -58,6 +58,12 @@ To start tracking, press the Track button. To stop tracking, press the Track but
 
 *When adding a placemark or tracking, you must have the [Mappoff](https://play.google.com/store/apps/details?id=com.jithware.mappoff) phone app  running. Additionally, your watch must be setup with the [Wear OS App](https://support.google.com/wearos/answer/6056630) or other similar [watch app](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion). You can adjust [placemark](https://github.com/jithware/mappoff#placemark) or [tracking](https://github.com/jithware/mappoff#tracking) settings in the phone app.*
 
+### Navigation
+To go to navigation view, press the Navigation button. To go back, press the Navigation button again.
+
+[<img src="screenshots/android/navigation.webp"
+     alt="Navigation">](screenshots/android/navigation.webp)
+
 ### Preset
 To view a preset, connect your watch to your phone and load a [preset](https://github.com/jithware/mappoff#presets) in the phone app. Move or zoom to your preset. Tap a location on the map to load the preset in that location.
 
@@ -66,7 +72,7 @@ To view a preset, connect your watch to your phone and load a [preset](https://g
 
 ### Cache
 
-To cache map tiles for offline use, connect your watch to your phone and [cache](https://github.com/jithware/mappoff#cache) tiles on your phone.
+To cache map tiles for offline use, connect your watch to your phone and [cache](https://github.com/jithware/mappoff#cache) tiles on your phone or press the Download button from the menu on your watch.
 
 [<img src="screenshots/android/cache.webp"
      alt="Cache">](screenshots/android/cache.webp)
