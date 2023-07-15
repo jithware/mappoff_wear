@@ -13,7 +13,7 @@ Slimmed down version of [Mappoff](https://github.com/jithware/mappoff) for Wear 
 ![hide](screenshots/android/2_hide.png)
 ![zoom](screenshots/android/3_zoom.png)
 ![move](screenshots/android/4_move.png)
-![location](screenshots/android/5_location.png)
+![dark](screenshots/android/5_dark.png)
 ![placemark](screenshots/android/6_placemark.png)
 ![popup](screenshots/android/7_popup.png)
 ![tracking](screenshots/android/8_tracking.png)
@@ -43,6 +43,12 @@ To move the map to your current location, press the Location button.
 
 [<img src="screenshots/android/location.webp"
      alt="Location">](screenshots/android/location.webp)
+
+### Dark Mode
+To change to dark mode, press the Dark Mode button from the menu on your watch. To change back to light mode, press the Light Mode button. 
+
+[<img src="screenshots/android/dark.webp"
+     alt="Dark">](screenshots/android/dark.webp)
 
 ### Placemark
 To add a new placemark, press the Add Location button or long press a location on the screen. To view the placemark information, tap the placemark. To dismiss the information, tap it again.
