@@ -10,9 +10,9 @@ Slimmed down version of [Mappoff](https://github.com/jithware/mappoff) for Wear 
 ## Screenshots
 
 ![home](screenshots/android/1_home.png)
-![hide](screenshots/android/2_hide.png)
-![zoom](screenshots/android/3_zoom.png)
-![move](screenshots/android/4_move.png)
+![zoom](screenshots/android/2_zoom.png)
+![move](screenshots/android/3_move.png)
+![menu](screenshots/android/4_menu.png)
 ![dark](screenshots/android/5_dark.png)
 ![placemark](screenshots/android/6_placemark.png)
 ![popup](screenshots/android/7_popup.png)
